@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#102A43"/>
+  <rect x="90" y="80" width="1420" height="740" rx="28" fill="none" stroke="#D7AD52" stroke-width="3"/>
+  <text x="130" y="165" fill="#D7AD52" font-family="PingFang SC, sans-serif" font-size="34" letter-spacing="5">卡若创业派对 · 内容资产化</text>
+  <text x="130" y="315" fill="#FFFFFF" font-family="PingFang SC, sans-serif" font-size="92" font-weight="700">每天派对变资产</text>
+  <text x="134" y="390" fill="#B8C7D5" font-family="PingFang SC, sans-serif" font-size="38">让一次真实交流，获得长期复利</text>
+  <line x1="130" y1="465" x2="1470" y2="465" stroke="#D7AD52" stroke-opacity=".65"/>
+  <g font-family="PingFang SC, sans-serif" text-anchor="middle">
+    <circle cx="280" cy="590" r="52" fill="#D7AD52"/><text x="280" y="607" fill="#102A43" font-size="43" font-weight="700">1</text><text x="280" y="700" fill="#FFFFFF" font-size="38" font-weight="600">记录</text><text x="280" y="753" fill="#9FB3C8" font-size="27">留下真实问题</text>
+    <circle cx="625" cy="590" r="52" fill="#D7AD52"/><text x="625" y="607" fill="#102A43" font-size="43" font-weight="700">2</text><text x="625" y="700" fill="#FFFFFF" font-size="38" font-weight="600">复盘</text><text x="625" y="753" fill="#9FB3C8" font-size="27">提炼判断方法</text>
+    <circle cx="970" cy="590" r="52" fill="#D7AD52"/><text x="970" y="607" fill="#102A43" font-size="43" font-weight="700">3</text><text x="970" y="700" fill="#FFFFFF" font-size="38" font-weight="600">发布</text><text x="970" y="753" fill="#9FB3C8" font-size="27">形成文章切片</text>
+    <circle cx="1315" cy="590" r="52" fill="#D7AD52"/><text x="1315" y="607" fill="#102A43" font-size="43" font-weight="700">4</text><text x="1315" y="700" fill="#FFFFFF" font-size="38" font-weight="600">转化</text><text x="1315" y="753" fill="#9FB3C8" font-size="27">沉淀长期关系</text>
+  </g>
+  <g stroke="#D7AD52" stroke-width="3" fill="none"><path d="M350 590h205"/><path d="M695 590h205"/><path d="M1040 590h205"/></g>
+</svg>

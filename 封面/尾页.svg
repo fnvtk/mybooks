@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2400" viewBox="0 0 1600 2400">
+  <defs><linearGradient id="bg2" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#07111e"/><stop offset="1" stop-color="#102b49"/></linearGradient></defs>
+  <rect width="1600" height="2400" fill="url(#bg2)"/>
+  <rect x="0" y="0" width="22" height="2400" fill="#d5a94e"/>
+  <text x="150" y="260" fill="#d5a94e" font-family="PingFang SC, sans-serif" font-size="68" font-weight="700">把每一次经历，</text>
+  <text x="150" y="360" fill="#ffffff" font-family="PingFang SC, sans-serif" font-size="68" font-weight="700">变成可以复利的资产。</text>
+  <line x1="150" y1="460" x2="1450" y2="460" stroke="#d5a94e"/>
+  <text x="150" y="590" fill="#e8edf2" font-family="PingFang SC, sans-serif" font-size="38">
+    <tspan x="150" dy="0">这不是一本成功学。它记录的是一个创业者</tspan>
+    <tspan x="150" dy="68">二十六年的真实选择：做网站、做游戏、做电商、</tspan>
+    <tspan x="150" dy="68">做私域、做AI，也记录破产、背叛、重启和再出发。</tspan>
+    <tspan x="150" dy="105">你会看到流量如何沉淀为关系，关系如何变成资产，</tspan>
+    <tspan x="150" dy="68">个人如何借助内容、系统与AI走向超级企业。</tspan>
+  </text>
+  <g font-family="PingFang SC, sans-serif">
+    <circle cx="180" cy="1195" r="8" fill="#d5a94e"/><text x="220" y="1210" fill="#ffffff" font-size="40">真实故事：不回避失败与代价</text>
+    <circle cx="180" cy="1315" r="8" fill="#d5a94e"/><text x="220" y="1330" fill="#ffffff" font-size="40">可复制方法：流量、私域、分润与组织</text>
+    <circle cx="180" cy="1435" r="8" fill="#d5a94e"/><text x="220" y="1450" fill="#ffffff" font-size="40">长期答案：让个人经验成为数字资产</text>
+  </g>
+  <path d="M150 1840 C450 1600 750 1920 1050 1640 S1450 1500 1550 1330" fill="none" stroke="#d5a94e" stroke-opacity=".45" stroke-width="5"/>
+  <text x="150" y="2040" fill="#d5a94e" font-family="PingFang SC, sans-serif" font-size="52" font-weight="600">“先跑稳，再放大。”</text>
+  <text x="150" y="2120" fill="#aab7c6" font-family="PingFang SC, sans-serif" font-size="34">—— 卡若</text>
+  <text x="150" y="2260" fill="#78889a" font-family="PingFang SC, sans-serif" font-size="27" letter-spacing="5">《卡若的IP财富旅程》</text>
+</svg>
